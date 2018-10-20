@@ -1,5 +1,5 @@
 # PyDelhi-gitlearn
-Pulkit Gera,IIIT
+Pulkit Gera,IIIT-K
 I love doing open source
 This is for hacktoberfest
 Im a big anime fan. My favourite is One-punch man
